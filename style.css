@@ -62,7 +62,7 @@ button {border:none; background:none;}
 .music_info .music_info_btn .music_info_btn_white {color:#a8a8a8; background-color:#fff; border:1px solid #fff;}
 .music_info .music_info_btn .music_info_btn_white i {color:#000; animation:heart_ani 1s ease-in-out infinite;}
 
-.music_list_box {height:calc(100% - 30%); padding:20px 10px 110px; overflow-y:scroll; -ms-overflow-style:none; scrollbar-width:none;}
+.music_list_box {height:calc(100% - 35%); padding:20px 10px 110px; overflow-y:scroll; -ms-overflow-style:none; scrollbar-width:none;}
 .music_list_box::-webkit-scrollbar {display:none;}
 .music_list_item {margin:10px 0;}
 .music_list_item a {display:flex; align-items:center; width:100%; padding:10px 20px; box-sizing:border-box; transition:all 0.2s ease-in-out;}
